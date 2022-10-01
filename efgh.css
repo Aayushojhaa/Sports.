@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1
+{
+	color: red;
+}
+.p{
+	width: 100%;
+	height: 100vh;
+	background-color: BLACK;
+	background-image: url('olympic.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+.qwer
+{
+	width: 100%;
+	height: 100vh;
+	background-color: BLACK;
+	background-image: url('cricket1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+.o{
+	width: 100%;
+	height: 100vh;
+	background-color: green;
+	background-image: url('ipl.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+.I{
+	width: 100%;
+	height: 100vh;
+	background-color: green;
+	background-image: url('paraolympic.webp');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;}
+
+.Y{
+	width: 100%;
+	height: 100vh;
+	background-color: green;
+	background-image: url('footboll.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;}
+
+.T{
+	width: 100%;
+	height: 100vh;
+	background-color: green;
+	background-image: url('hockey.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;}
+
+.e{
+	width: 100%;
+	height: 100vh;
+	background-color: green;
+	background-image: url('basketball.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;}
+
